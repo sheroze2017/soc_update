@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "Imag":   "Assets/wallet-icon.png",
+        "Title":  "Mumbai",
+        
+        "Price":  120020
+        
+    },
+    {
+        "id": 2,
+        "Imag":   "Assets/wallet-icon.png",
+        "Title":  "Ethereum",
+   
+        "Price": 130030
+    
+    },
+    {
+        "id": 3,
+        "Imag":   "Assets/wallet-icon.png",
+        "Title":  "BTC",
+       
+        "Price":  10000010
+      
+    }
+  
+]
